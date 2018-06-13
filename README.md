@@ -1,6 +1,6 @@
 # June2018-ApiGateway
 
-In this challenge we're going to learn how to setup an API Gateway, AWS Lambda function, and a datasource to presist data from an existing RESTful application.
+In this challenge we're going to learn how to setup an API Gateway, AWS Lambda function, and a data source to persist data from an existing RESTful application.
 
 <https://skittleson.github.io/ToDoApp/>
 ![to do app](todoApp.gif)
